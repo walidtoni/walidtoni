@@ -1,10 +1,11 @@
 ## Hi there 👋
 
-I'm a developer who uses GitHub for fun projects and coding experiments.  
+I'm an aspiring developer who uses GitHub for fun projects and coding experiments.
+Oh, and i speak javascript a lot because idk.  
 
-### What you'll find here:
-- 🎉 Fun coding projects I'm working on  
-- 🔍 Explorations of different technologies  
+### What's here:
+- 🎉 Coding projects that's mostly for work  
+- 🔍 College research repos  
 - 🚀 Small experiments and learning attempts  
 
 ### My GitHub Stats  
